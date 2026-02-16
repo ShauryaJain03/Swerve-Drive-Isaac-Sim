@@ -283,7 +283,3 @@ class OgnSwerveDriveController:
 
         return True
 
-
-# Note: You'll need to generate the database file using:
-# python -m omni.graph.core.ogn OgnSwerveDriveController.ogn --build_path /path/to/output
-#from isaacsim.robot.wheeled_robots.ogn.OgnSwerveDriveControllerDatabase import OgnSwerveDriveControllerDatabase
